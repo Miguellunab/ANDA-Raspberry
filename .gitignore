@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# Archivos de ejecucion de la prueba de audio
+audio/.prueba-audifonos.log
+audio/.prueba-audifonos.pid
